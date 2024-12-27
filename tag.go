@@ -14,6 +14,7 @@
 // Package actor provides the structures for representing an actor who has
 // access to resources.
 
+// Package logtags provides a way to attach key/value annotations to a Go context.Context.
 package logtags
 
 import "fmt"
